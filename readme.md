@@ -6,6 +6,8 @@ This is a simple room booking system using Laravel 5 and FullCalendar javascript
 
 ##Tutorials
 
+https://blog.pisyek.com/create-room-booking-system-laravel-fullcalendar/3/
+
 You may refer to my blog for detail tutorials:
 
 [Create a room booking system with Laravel and FullCalendar - Part 1](http://blog.pisyek.com/create-room-booking-system-laravel-fullcalendar/)<br />
